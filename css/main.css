@@ -1,0 +1,107 @@
+html,
+body{
+	height:100%;
+	font-family: 'Lato', sans-serif !important;
+}
+img{
+	max-width:100%;
+}
+#skills-3{
+	width:500px;
+}
+
+
+/*#skills-2{
+	width:50% !important;
+	margin:0 auto;
+	text-align:center;
+}
+*/
+
+#my-work{
+	background-color:#f2f2f2;
+}
+
+#social{
+	width:50% !important;
+	margin:0 auto;
+	padding-left: 0px;
+	text-align:center;
+}
+#cover{
+	background:#222 url("http://files.all-free-download.com//downloadfiles/wallpapers/1920_1200/apple_sky_blue_aurora_7191.jpg")center center no-repeat;
+	background-size:cover;
+	color:white;
+	height:100%;
+	text-align:center;
+	display:flex;
+	align-items:center;
+
+}
+
+#cover-1{
+	background:#222 url("https://cdn2.macworld.co.uk/cmsdata/reviews/3595594/Macbook_2015_Lifestyle.jpg")center center no-repeat;
+	background-size:cover;
+	color:white;
+	height:83%;
+	text-align:center;
+	display:flex;
+	align-items:center;
+
+}
+
+#cover-2{
+	background:#222 url("http://cdn.wallpapersafari.com/95/77/X6Gf3K.jpg")center center no-repeat;
+	background-size:cover;
+	color:white;
+	height:30%;
+	text-align:center;
+	display:flex;
+	align-items:center;
+
+
+}
+#aboutme-h1{
+	font-size:50px!important;
+}
+#nav-main{
+	height:70px !important;
+	color:white;
+}
+
+#cover-caption{
+	width:100%;
+}
+
+.contact{
+	width:50px;
+	height:50px;
+	border-radius:50%;
+}
+.section-content{
+	padding-top:5rem;
+	padding-bottom:5rem;
+}
+
+
+#about{
+background:url("http://azure.luxresorts.com/media/2601563/Maldives_Hotels_Resorts_LUX_Maldives_Spa_WellBeing.jpg");	background-size: cover;
+}
+.about-text{
+	background:rgba(0,0,0,0.8);
+	color:white;
+	padding:1.875rem;
+}
+
+
+#footer-main{
+	background:#222;
+	color:white;
+	font-size:0.8rem;
+	padding:2.5rem;
+}
+
+#mywork-section{
+	margin-top: 90px;
+	margin-bottom:90px;
+}
